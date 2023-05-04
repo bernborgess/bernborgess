@@ -1,4 +1,9 @@
 ### Hello, I am Bernardo Borges 👋
+<!---
+MSYS prefix:
+export PS1="\e[0;32m/\W$ \e[m"
+-->
+
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://homepages.dcc.ufmg.br/~bernardoborges/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-borges-5b36b817a/)
