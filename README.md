@@ -1,7 +1,7 @@
 ### Hello, I am Bernardo Borges 👋
 <!---
 MSYS prefix:
-export PS1="\e[0;32m/\W$ \e[m"
+export PS1="\[\e[0;32m/\]\W$ \[\e[m\]"
 -->
 
 
