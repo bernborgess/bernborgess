@@ -34,6 +34,15 @@ export PS1="\[\e[0;32m/\]\W$ \[\e[m\]"
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
+
+## Platforms I use
+
+<div style="display: inline_block" ><br/>
+  <img align="center" alt="codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  <img align="center" alt="duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" />
+</div><br/>
+
+
 ## Education
 - [Universidade Federal de Minas Gerais - Computer Science](https://ufmg.br/)<br/>
 - [iJunior - Junior Entreprise](https://ijunior.com.br/)<br/>
