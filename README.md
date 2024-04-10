@@ -31,6 +31,9 @@
   <a href="https://flask.palletsprojects.com/en/3.0.x/">
     <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </a>
+  <a href="https://www.gnu.org/software/gnu-c-manual/">
+    <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white"/>
+  </a>
 </div>
 <br/>
 
@@ -49,11 +52,17 @@
   <a href="https://manjaro.org/">
     <img alt="manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   </a>
+  <a href="https://kde.org/">
+    <img alt="KDE" src="https://img.shields.io/badge/-KDE-1D99F3?logo=KDE&style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://www.microsoft.com/en-us/software-download/windows10%20">
     <img alt="windows10" src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
   <a href="https://swagger.io/">
     <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" />
+  </a>
+  <a href="https://jestjs.io/">
+    <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&style=for-the-badge&logoColor=white" />
   </a>
 </div><br/>
 
@@ -65,6 +74,12 @@
   </a>
   <a href="https://codeforces.com/profile/bernborgess">
     <img alt="codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+  <a href="https://ctf.hackthebox.com/">
+    <img alt="htbctf" src="https://img.shields.io/badge/-HTB%20CTF-9FEF00?logo=hackthebox&style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="">
+    <img alt="tryhackme" src="https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&style=for-the-badge&logoColor=white" />
   </a>
 </div><br/>
 
