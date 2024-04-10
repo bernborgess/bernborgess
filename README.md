@@ -10,7 +10,7 @@
 ## Technologies I enjoyed working with
 
 <div style="display: inline_block" ><br/>
-  Lean4
+  <img align="center" alt="Lean4" src="https://img.shields.io/badge/-Lean%204-black?logo=edotleclerc&style=for-the-badge"/>
   <img align="center" alt="haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,8 +23,8 @@
 ## Development Tools most used
 
 <div style="display: inline_block" ><br/>
-  Devcontainers
-  Docker
+  <img align="center" alt="Devcontainers" src="https://img.shields.io/badge/-Devcontainers-2753E3?logo=nintendogamecube&logoColor=white&style=for-the-badge" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img align="center" alt="nvim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   <img align="center" alt="manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -35,7 +35,7 @@
 ## Platforms I use
 
 <div style="display: inline_block" ><br/>
-  Zulip  
+  <img align="center" alt="Zulip" src="https://img.shields.io/badge/-Zulip-6492FE?logo=zulip&logoColor=white&style=for-the-badge" />
   <img align="center" alt="codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 </div><br/>
 
