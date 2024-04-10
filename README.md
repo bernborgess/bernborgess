@@ -10,7 +10,9 @@
 ## Technologies I enjoyed working with
 
 <div style="display: inline_block" ><br/>
-  <a href="https://leanprover-community.github.io/index.html"><img align="center" alt="Lean4" src="https://img.shields.io/badge/-Lean%204-black?logo=edotleclerc&style=for-the-badge"/></a>
+  <a href="https://leanprover-community.github.io/index.html" target="_blank">
+    <img align="center" alt="Lean4" src="https://img.shields.io/badge/-Lean%204-black?logo=edotleclerc&style=for-the-badge"/>
+  </a>
   <a href="https://www.haskell.org/"><img align="center" alt="haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" /></a>
   <a href="https://reactnative.dev/"><img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a href="https://www.typescriptlang.org/"><img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
