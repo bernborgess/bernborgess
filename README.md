@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://homepages.dcc.ufmg.br/~bernardoborges/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-borges-5b36b817a/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bernborgess@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bernborgess@outlook.com)
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bernborgess&theme=blue-green)
@@ -18,6 +18,9 @@
   </a>
   <a href="https://reactnative.dev/">
     <img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://expo.dev/">
+    <img alt="expo" src="https://img.shields.io/badge/-expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.typescriptlang.org/">
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -41,7 +44,7 @@
 
 <div style="display: inline_block" ><br/>
   <a href="https://containers.dev/">
-    <img alt="Devcontainers" src="https://img.shields.io/badge/-Devcontainers-2753E3?logo=nintendogamecube&logoColor=white&style=for-the-badge" />
+    <img alt="Devcontainers" src="https://img.shields.io/badge/-devcontainers-2753E3?logo=launchpad&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
@@ -55,8 +58,11 @@
   <a href="https://kde.org/">
     <img alt="KDE" src="https://img.shields.io/badge/-KDE-1D99F3?logo=KDE&style=for-the-badge&logoColor=white" />
   </a>
+  <a href="https://code.visualstudio.com/">
+    <img alt="vscode" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="https://www.microsoft.com/en-us/software-download/windows10%20">
-    <img alt="windows10" src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img alt="windows10" src="https://img.shields.io/badge/-windows%2010-0078D6?logo=windows10&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://swagger.io/">
     <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" />
@@ -66,11 +72,14 @@
   </a>
 </div><br/>
 
-## Platforms I use
+## Platforms and Software I use
 
 <div style="display: inline_block" ><br/>
   <a href="https://leanprover.zulipchat.com/">
     <img alt="Zulip" src="https://img.shields.io/badge/-Zulip-6492FE?logo=zulip&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/rust-lang/mdBook">
+    <img alt="mdbook" src="https://img.shields.io/badge/-mdbook-black?logo=mdbook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://codeforces.com/profile/bernborgess">
     <img alt="codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
@@ -78,8 +87,14 @@
   <a href="https://ctf.hackthebox.com/">
     <img alt="htbctf" src="https://img.shields.io/badge/-HTB%20CTF-9FEF00?logo=hackthebox&style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://tryhackme.com/">
     <img alt="tryhackme" src="https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.videolan.org/">
+    <img alt="vlc" src="https://img.shields.io/badge/-VLC-FF8800?logo=vlcmediaplayer&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.virtualbox.org/">
+    <img alt="virtualbox" src="https://img.shields.io/badge/-vbox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
   </a>
 </div><br/>
 
