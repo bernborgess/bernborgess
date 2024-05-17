@@ -99,6 +99,8 @@
 </div><br/>
 
 
-## Education
-- [Universidade Federal de Minas Gerais](https://ufmg.br/) - [Computer Science](https://trex.dcc.ufmg.br/en/)<br/>
-- [iJunior - Junior Entreprise](https://ijunior.com.br/)<br/>
+## Institutions, Departments and Companies I took part 
+- [Universidade Federal de Minas Gerais](https://ufmg.br/) - [Computer Science](https://dcc.ufmg.br/bacharelado-em-ciencia-da-computacao/)<br/>
+- [iJunior - Junior Enterprise](https://ijunior.com.br/) - Full Stack developer and Business Director<br/>
+- [Laboratório de Teoria da Computação](https://trex.dcc.ufmg.br/en/) - Formal Methods and Theorem Proving<br/>
+
