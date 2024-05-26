@@ -55,14 +55,11 @@
   <a href="https://manjaro.org/">
     <img alt="manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   </a>
-  <a href="https://kde.org/">
-    <img alt="KDE" src="https://img.shields.io/badge/-KDE-1D99F3?logo=KDE&style=for-the-badge&logoColor=white" />
+  <a href="https://www.gnome.org/">
+    <img alt="GNOME" src="https://img.shields.io/badge/-GNOME-4A86CF?logo=GNOME&style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://code.visualstudio.com/">
     <img alt="vscode" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/software-download/windows10%20">
-    <img alt="windows10" src="https://img.shields.io/badge/-windows%2010-0078D6?logo=windows10&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://swagger.io/">
     <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" />
