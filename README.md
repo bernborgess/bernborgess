@@ -52,8 +52,8 @@
   <a href="https://neovim.io/">
     <img alt="nvim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   </a>
-  <a href="https://manjaro.org/">
-    <img alt="manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <a href="https://pop.system76.com/">
+    <img alt="popos" src="https://img.shields.io/badge/-Pop!_OS-white?logo=Pop!_OS&style=for-the-badge" />
   </a>
   <a href="https://www.gnome.org/">
     <img alt="GNOME" src="https://img.shields.io/badge/-GNOME-4A86CF?logo=GNOME&style=for-the-badge&logoColor=white" />
