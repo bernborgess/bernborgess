@@ -7,12 +7,38 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bernborgess&theme=blue-green)
 
-## Technologies I enjoyed working with
+## Setup and Tech currently
 
 <div style="display: inline_block" ><br/>
+  <a href="https://pop.system76.com/">
+    <img alt="popos" src="https://img.shields.io/badge/-Pop!_OS-white?logo=Pop!_OS&style=for-the-badge" />
+  </a>
+  <a href="https://www.gnome.org/">
+    <img alt="GNOME" src="https://img.shields.io/badge/-GNOME-4A86CF?logo=GNOME&style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://leanprover-community.github.io/index.html">
     <img alt="Lean4" src="https://img.shields.io/badge/-Lean%204-black?logo=edotleclerc&style=for-the-badge"/>
   </a>
+  <a href="https://containers.dev/">
+    <img alt="Devcontainers" src="https://img.shields.io/badge/-devcontainers-2753E3?logo=launchpad&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img alt="vscode" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.vim.org/">
+    <img alt="vim" src="https://img.shields.io/badge/-Vim-cccc99?logo=vim&logoColor=019733&style=for-the-badge" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://www.latex-project.org/">
+    <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-FFFFFF?logo=latex&logoColor=008080&style=for-the-badge" />
+  </a>
+</div><br/>
+
+## Technologies I enjoyed working with
+
+<div style="display: inline_block" ><br/>
   <a href="https://www.haskell.org/">
     <img alt="haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
   </a>
@@ -21,9 +47,6 @@
   </a>
   <a href="https://expo.dev/">
     <img alt="expo" src="https://img.shields.io/badge/-expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="https://cplusplus.com/">
     <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -37,37 +60,17 @@
   <a href="https://www.gnu.org/software/gnu-c-manual/">
     <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white"/>
   </a>
-</div>
-<br/>
-
-## Development Tools most used
-
-<div style="display: inline_block" ><br/>
-  <a href="https://containers.dev/">
-    <img alt="Devcontainers" src="https://img.shields.io/badge/-devcontainers-2753E3?logo=launchpad&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.docker.com/">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://neovim.io/">
-    <img alt="nvim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-  </a>
-  <a href="https://pop.system76.com/">
-    <img alt="popos" src="https://img.shields.io/badge/-Pop!_OS-white?logo=Pop!_OS&style=for-the-badge" />
-  </a>
-  <a href="https://www.gnome.org/">
-    <img alt="GNOME" src="https://img.shields.io/badge/-GNOME-4A86CF?logo=GNOME&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img alt="vscode" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://swagger.io/">
     <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" />
   </a>
   <a href="https://jestjs.io/">
     <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&style=for-the-badge&logoColor=white" />
   </a>
-</div><br/>
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
+<br/>
 
 ## Platforms and Software I use
 
