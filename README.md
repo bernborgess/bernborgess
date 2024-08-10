@@ -10,6 +10,9 @@
 ## Setup and Tech currently
 
 <div style="display: inline_block" ><br/>
+  <a href="https://www.rust-lang.org/">
+    <img alt="rust" src="https://img.shields.io/badge/-Rust-B7410E?logo=Rust&style=for-the-badge" />
+  </a>
   <a href="https://pop.system76.com/">
     <img alt="popos" src="https://img.shields.io/badge/-Pop!_OS-white?logo=Pop!_OS&style=for-the-badge" />
   </a>
