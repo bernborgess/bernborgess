@@ -5,7 +5,10 @@
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bernborgess@outlook.com)
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bernborgess&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=bernborgess&theme=transparent)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bernborgess&theme=transparent&hide=css,html,scss,javascript,dockerfile,shell&layout=donut)
+
 
 ## Setup and Tech currently
 
