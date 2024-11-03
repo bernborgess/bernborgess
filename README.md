@@ -45,6 +45,15 @@
 ## Technologies I enjoyed working with
 
 <div style="display: inline_block" ><br/>
+  <a href="https://ocaml.org/">
+    <img alt="ocaml" src="https://img.shields.io/badge/ocaml-EC6813?style=for-the-badge&logo=OCaml&logoColor=white" />
+  </a>
+  <a href="https://www.scala-lang.org/">
+    <img alt="scala" src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white" />
+  </a>
+  <a href="https://fstar-lang.org/">
+    <img alt="f-star" src="https://img.shields.io/badge/f*-000?style=for-the-badge&logo=adventofcode&logoColor=white" />
+  </a>
   <a href="https://www.haskell.org/">
     <img alt="haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
   </a>
