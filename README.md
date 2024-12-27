@@ -13,15 +13,22 @@
 ## Setup and Tech currently
 
 <div style="display: inline_block" ><br/>
+   <a href="https://archlinux.org/">
+    <img alt="archlinux" src="https://img.shields.io/badge/Arch%20Linux-000?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
+  </a>
+  <a href="https://wayland.freedesktop.org/">
+    <img alt="wayland" src="https://img.shields.io/badge/wayland-FFF?style=for-the-badge&logo=wayland&logoColor=FFBC00" />
+  </a>
+  <a href="https://hyprland.org/">
+    <img alt="hyprland" src="https://img.shields.io/badge/Hyprland-000?style=for-the-badge&logo=hyprland&logoColor=58E1FF" />
+  </a>
+  <a href="https://github.com/tmux/tmux/wiki">
+    <img alt="tmux" src="https://img.shields.io/badge/tmux-000?style=for-the-badge&logo=tmux&logoColor=1BB91F" />
+  </a>
   <a href="https://www.rust-lang.org/">
     <img alt="rust" src="https://img.shields.io/badge/-Rust-B7410E?logo=Rust&style=for-the-badge" />
   </a>
-  <a href="https://pop.system76.com/">
-    <img alt="popos" src="https://img.shields.io/badge/-Pop!_OS-white?logo=Pop!_OS&style=for-the-badge" />
-  </a>
-  <a href="https://www.gnome.org/">
-    <img alt="GNOME" src="https://img.shields.io/badge/-GNOME-4A86CF?logo=GNOME&style=for-the-badge&logoColor=white" />
-  </a>
+
   <a href="https://leanprover-community.github.io/index.html">
     <img alt="Lean4" src="https://img.shields.io/badge/-Lean%204-black?logo=edotleclerc&style=for-the-badge"/>
   </a>
@@ -34,9 +41,7 @@
   <a href="https://www.vim.org/">
     <img alt="vim" src="https://img.shields.io/badge/-Vim-cccc99?logo=vim&logoColor=019733&style=for-the-badge" />
   </a>
-  <a href="https://www.typescriptlang.org/">
-    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
+
   <a href="https://www.latex-project.org/">
     <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-FFFFFF?logo=latex&logoColor=008080&style=for-the-badge" />
   </a>
@@ -83,6 +88,15 @@
   </a>
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  </a>
+    <a href="https://pop.system76.com/">
+    <img alt="popos" src="https://img.shields.io/badge/-Pop!_OS-white?logo=Pop!_OS&style=for-the-badge" />
+  </a>
+  <a href="https://www.gnome.org/">
+    <img alt="GNOME" src="https://img.shields.io/badge/-GNOME-4A86CF?logo=GNOME&style=for-the-badge&logoColor=white" />
+  </a>
+    <a href="https://www.typescriptlang.org/">
+    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
 </div>
 <br/>
