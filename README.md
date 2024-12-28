@@ -5,6 +5,7 @@
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bernborgess@outlook.com)
 
 
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=bernborgess&theme=transparent)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bernborgess&theme=transparent&hide=css,html,scss,javascript,dockerfile,shell&layout=donut)
@@ -130,7 +131,7 @@
 
 
 ## Institutions, Departments and Companies I took part 
-- [Universidade Federal de Minas Gerais](https://ufmg.br/) - [Computer Science](https://dcc.ufmg.br/bacharelado-em-ciencia-da-computacao/)<br/>
+- ![ufmg](./badges/UFMG-badge.svg) [Universidade Federal de Minas Gerais](https://ufmg.br/) - [Computer Science](https://dcc.ufmg.br/bacharelado-em-ciencia-da-computacao/)<br/>
 - [iJunior - Junior Enterprise](https://ijunior.com.br/) - Full Stack developer and Business Director<br/>
 - [Laboratório de Teoria da Computação](https://trex.dcc.ufmg.br/en/) - Formal Methods and Theorem Proving<br/>
 
