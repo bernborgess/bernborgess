@@ -34,13 +34,23 @@
   <a href="https://gradle.org/">
     <img alt="spring" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   </a>
-  
+  <a href="https://dbeaver.io/download/">
+    <img alt="dbeaver" src="https://img.shields.io/badge/DBeaver-FFF?style=for-the-badge&logo=dbeaver&logoColor=382923" />
+  </a>
+  <a href="https://www.usebruno.com/">
+    <img alt="bruno" src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=000" />
+  </a>
+  <a href="https://github.com/SonarSource/sonarqube">
+    <img alt="sonarqube" src="https://img.shields.io/badge/SonarQube-FFFFFF?style=for-the-badge&logo=sonarqubeforide&logoColor=126ED3" />
+  </a>
 </div><br/>
 
 ## Technologies I enjoyed working with
 
 <div style="display: inline_block" ><br/>
-  <a href="https://www.haskell.org/">
+<!-- https://img.shields.io/badge/Duolingo-FFF?style=for-the-badge&logo=duolingo&logoColor=58CC02 -->
+   
+   <a href="https://www.haskell.org/">
     <img alt="haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white&colorBack=R11296" />
   </a>
   <a href="https://reactnative.dev/">
