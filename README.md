@@ -43,6 +43,23 @@
   <a href="https://github.com/SonarSource/sonarqube">
     <img alt="sonarqube" src="https://img.shields.io/badge/SonarQube-FFFFFF?style=for-the-badge&logo=sonarqubeforide&logoColor=126ED3" />
   </a>
+    <a href="https://react.dev">
+    <img alt="react" src="https://img.shields.io/badge/-React.js-black?logo=react&style=for-the-badge&logoColor=61DAFB" />
+  </a>
+  <a href="https://vite.dev/">
+    <img alt="vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://styled-components.com/">
+    <img alt="styled-components" src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=FFF" />
+  </a>
+  <a href="https://eslint.org/">
+    <img alt="eslint" src="https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
+  </a>
+  <a href="https://redux.js.org/">
+    <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=000" />
+  </a>
+
+
 </div><br/>
 
 ## Technologies I enjoyed working with
