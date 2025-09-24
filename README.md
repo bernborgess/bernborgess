@@ -59,7 +59,9 @@
   <a href="https://redux.js.org/">
     <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=000" />
   </a>
-
+  <a href="https://www.red-gate.com/products/flyway/community/">
+    <img alt="redux" src="https://img.shields.io/badge/flyway-FFF?style=for-the-badge&logo=flyway&logoColor=CC0200" />
+  </a
 
 </div><br/>
 
