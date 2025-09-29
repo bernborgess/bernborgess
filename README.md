@@ -24,16 +24,16 @@
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
    <a href="https://www.java.com/en/">
-    <img alt="f-star" src="./badges/java-badge.svg" />
+    <img alt="java" src="./badges/java-badge.svg" />
   </a>
   <a href="https://spring.io/">
     <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img alt="spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img alt="spring-boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   </a>
   <a href="https://gradle.org/">
-    <img alt="spring" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+    <img alt="gradle" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   </a>
   <a href="https://dbeaver.io/download/">
     <img alt="dbeaver" src="https://img.shields.io/badge/DBeaver-FFF?style=for-the-badge&logo=dbeaver&logoColor=382923" />
@@ -60,8 +60,13 @@
     <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=000" />
   </a>
   <a href="https://www.red-gate.com/products/flyway/community/">
-    <img alt="redux" src="https://img.shields.io/badge/flyway-FFF?style=for-the-badge&logo=flyway&logoColor=CC0200" />
-  </a
+    <img alt="flyway" src="https://img.shields.io/badge/flyway-FFF?style=for-the-badge&logo=flyway&logoColor=CC0200" />
+  </a>
+
+  <a href="https://azure.microsoft.com/en-us/products/devops/">
+    <img alt="azure-devops" src="https://img.shields.io/badge/-azure%20devops-007ACC?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHRpdGxlPkF6dXJlIERldk9wczwvdGl0bGU+CjxwYXRoCmZpbGw9IiNmZmZmZmYiCmQ9Ik0wIDguODc3TDIuMjQ3IDUuOTFsOC40MDUtMy40MTZWLjAyMmw3LjM3IDUuMzkzTDIuOTY2IDguMzM4djguMjI1TDAgMTUuNzA3em0yNC00LjQ1djE0LjY1MWwtNS43NTMgNC45LTkuMzAzLTMuMDU3djMuMDU2bC01Ljk3OC03LjQxNiAxNS4wNTcgMS43OThWNS40MTV6Ii8+Cjwvc3ZnPgo=" />
+  </a>
+  
 
 </div><br/>
 
