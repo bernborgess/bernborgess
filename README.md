@@ -75,6 +75,7 @@
   </a>
 
   <a href="https://www.microsoft.com/en-US/sql-server">
+     <img alt="microsoft-sql-server" src="./badges/sql-server-badge.svg" />
   </a>
 
 </div><br/>
