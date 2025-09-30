@@ -66,7 +66,13 @@
   <a href="https://azure.microsoft.com/en-us/products/devops/">
     <img alt="azure-devops" src="https://img.shields.io/badge/-azure%20devops-007ACC?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHRpdGxlPkF6dXJlIERldk9wczwvdGl0bGU+CjxwYXRoCmZpbGw9IiNmZmZmZmYiCmQ9Ik0wIDguODc3TDIuMjQ3IDUuOTFsOC40MDUtMy40MTZWLjAyMmw3LjM3IDUuMzkzTDIuOTY2IDguMzM4djguMjI1TDAgMTUuNzA3em0yNC00LjQ1djE0LjY1MWwtNS43NTMgNC45LTkuMzAzLTMuMDU3djMuMDU2bC01Ljk3OC03LjQxNiAxNS4wNTcgMS43OThWNS40MTV6Ii8+Cjwvc3ZnPgo=" />
   </a>
-  
+
+  <a href="https://www.docker.com/products/docker-desktop/">
+    <img alt="docker-desktop" src="https://img.shields.io/badge/docker%20desktop-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
+  </a>
+    <a href="https://www.firefox.com/en-US/">
+    <img alt="firefox" src="https://img.shields.io/badge/firefox-000?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" />
+  </a>
 
 </div><br/>
 
