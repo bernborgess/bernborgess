@@ -78,6 +78,12 @@
      <img alt="microsoft-sql-server" src="./badges/sql-server-badge.svg" />
   </a>
 
+
+     
+   <a href="https://learn.microsoft.com/en-us/windows/wsl/install">
+    <img alt="wsl2" src="./badges/wsl2-badge.svg" />
+  </a>
+
 </div><br/>
 
 ## Technologies I enjoyed working with
