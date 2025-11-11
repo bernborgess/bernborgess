@@ -81,7 +81,7 @@
 
      
    <a href="https://learn.microsoft.com/en-us/windows/wsl/install">
-    <img alt="wsl2" src="./badges/wsl2-badge.svg" />
+    <img alt="wsl2" src="./badges/wsl-penguin-badge.svg" />
   </a>
 
 </div><br/>
