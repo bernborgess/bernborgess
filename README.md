@@ -12,23 +12,18 @@
    <a href="https://archlinux.org/">
     <img alt="archlinux" src="https://img.shields.io/badge/Arch%20Linux-000?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
   </a>
-
   <a href="https://code.visualstudio.com/">
     <img alt="vscode" src="./badges/vscode-badge.svg" />
   </a>
-
   <a href="https://www.vim.org/">
     <img alt="vim" src="./badges/vim-badge.svg" />
   </a>
-
   <a href="https://www.typescriptlang.org/">
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
-
   <a href="https://www.java.com/en/">
     <img alt="java" src="./badges/java-badge.svg" />
   </a>
-
   <a href="https://spring.io/">
     <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </a>
