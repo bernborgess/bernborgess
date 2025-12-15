@@ -12,7 +12,7 @@
    <a href="https://archlinux.org/">
     <img alt="archlinux" src="https://img.shields.io/badge/Arch%20Linux-000?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
   </a>
-  
+
 
   <a href="https://code.visualstudio.com/">
     <img alt="vscode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT4KICA8cGF0aAogICAgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIKICAgIGZpbGw9IndoaXRlIgogIC8+Cjwvc3ZnPgo=" />
@@ -78,10 +78,12 @@
      <img alt="microsoft-sql-server" src="./badges/sql-server-badge.svg" />
   </a>
 
-
-     
    <a href="https://learn.microsoft.com/en-us/windows/wsl/install">
     <img alt="wsl2" src="./badges/wsl-penguin-badge.svg" />
+  </a>
+
+   <a href="https://rancherdesktop.io/">
+    <img alt="rancher-desktop" src="https://img.shields.io/badge/Rancher-FFF?style=for-the-badge&logo=rancher&logoColor=2453ff" />
   </a>
 
 </div><br/>
@@ -126,9 +128,8 @@
 </div>
 <br/>
 
+## Institutions, Departments and Companies I took part
 
-## Institutions, Departments and Companies I took part 
 - [Universidade Federal de Minas Gerais](https://ufmg.br/) - [Computer Science](https://dcc.ufmg.br/bacharelado-em-ciencia-da-computacao/)<br/>
 - [iJunior - Junior Enterprise](https://ijunior.com.br/) - Full Stack developer and Business Director<br/>
 - [Laboratório de Teoria da Computação](https://trex.dcc.ufmg.br/en/) - Formal Methods and Theorem Proving<br/>
-
