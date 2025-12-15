@@ -16,15 +16,19 @@
   <a href="https://code.visualstudio.com/">
     <img alt="vscode" src="./badges/vscode-badge.svg" />
   </a>
+
   <a href="https://www.vim.org/">
-    <img alt="vim" src="https://img.shields.io/badge/-Vim-cccc99?logo=vim&logoColor=019733&style=for-the-badge" />
+    <img alt="vim" src="./badges/vim-badge.svg" />
   </a>
+
   <a href="https://www.typescriptlang.org/">
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
-   <a href="https://www.java.com/en/">
+
+  <a href="https://www.java.com/en/">
     <img alt="java" src="./badges/java-badge.svg" />
   </a>
+
   <a href="https://spring.io/">
     <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </a>
