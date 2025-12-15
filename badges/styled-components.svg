@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a" d="M0 0h318v318H0z" />
+        <mask id="b" width="260" height="260" x="0" y="0" fill="#fff">
+            <use xlink:href="#a" />
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#000" font-family="AppleColorEmoji, Apple Color Emoji" font-size="100"
+            letter-spacing=".5" transform="translate(-60 60)">
+            <tspan x="70" y="100">&lt;💅&gt;</tspan>
+        </text>
+    </g>
+</svg>
