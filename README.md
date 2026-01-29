@@ -126,7 +126,7 @@
   </a>
 
   <a href="https://www.rust-lang.org/">
-    <img alt="rust" src="https://img.shields.io/badge/-Rust-B7410E?logo=Rust&style=for-the-badge" />
+    <img alt="rust" src="https://img.shields.io/badge/-Rust-B7410E?logo=Rust&style=for-the-badge&logoColor=1d1d1b" />
   </a>
 </div>
 <br/>
