@@ -97,7 +97,7 @@
 <div style="display: inline_block" ><br/>
    
    <a href="https://www.haskell.org/">
-    <img alt="haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white&colorBack=R11296" />
+    <img alt="haskell" src="https://img.shields.io/badge/-haskell-000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNyAxMiI+CgkJPHBhdGggZmlsbD0iIzQ1M2E2MiIgZD0iTSAwIDEyIEwgNCA2IEwgMCAwIEwgMyAwIEwgNyA2IEwgMyAxMiIvPgoJCTxwYXRoIGZpbGw9IiM1ZTUwODYiIGQ9Ik0gNCAxMiBMIDggNiBMIDQgMCBMIDcgMCBMIDE1IDEyIEwgMTIgMTIgTCA5LjUgOC4yNSBMIDcgMTIiLz4KCQk8cGF0aCBmaWxsPSIjOGY0ZThiIiBkPSJNIDEzLjY2IDguNSBMIDEyLjMzMyA2LjUgTCAxNyA2LjUgTCAxNyA4LjUgTSAxMS42NjYgNS41IEwgMTAuMzMzIDMuNSBMIDE3IDMuNSBMIDE3IDUuNSIvPgo8L3N2Zz4=" />
   </a>
   <a href="https://reactnative.dev/">
     <img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
