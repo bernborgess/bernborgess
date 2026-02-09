@@ -77,7 +77,7 @@
     <img alt="docker-desktop" src="https://img.shields.io/badge/docker%20desktop-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
   </a>
   <a href="https://www.firefox.com/en-US/">
-    <img alt="firefox" src="https://img.shields.io/badge/firefox-000?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" />
+    <img alt="firefox" src="https://img.shields.io/badge/-firefox-000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSI+CiAgPGVsbGlwc2UgY3g9IjUwIiBjeT0iNTAiIHJ4PSIyNCIgcnk9IjI0IiBmaWxsPSIjODBlIi8+CiAgPHBhdGggZD0iTTUwIDQyYy0xNC03LTExLTgtMTYtMTEtMS00LTEtOCAwLTEyLTUgMi05IDUtMTIgOS0xLTQtMS40LTctMS0xMkM4IDI0IDIgMzggMiA1MGMtMCAzMSAyNiA0OSA0OCA0OSAyMiAwIDQ4LTE2IDQ4LTQ5IDAtNSAwLTktMy0xNi05IDIxLTIzIDQwLTQ1IDQwLTggMC0yMy00LTIzLTI1IDctMiAxNi0zIDIzLTd6IiBmaWxsPSIjZjczIi8+CiAgPHBhdGggZD0iTTUwIDQyYy0xNyA2LTIwLTgtMzUgMCAzIDYgNyA3IDExIDcgMCAyMCAxMiAyNiAyNCAyNiAxOSAwIDM3LTkgNDUtNDEtNy0xNy0yMy0xOS0yOS0zNC05IDYtMTUgMTQtMTYgMjYgMTIgMCAyNCAxMCAyNCAyNCAwIDE1LTE0IDIzLTI0IDIzLTUgMC0xOS0yLTIxLTE3IDItNiA4LTggMTYtOSAzLTEgNC0zIDUtNXoiIGZpbGw9IiNmYzMiLz4KPC9zdmc+" />
   </a>
 
   <a href="https://www.microsoft.com/en-US/sql-server">
