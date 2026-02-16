@@ -15,6 +15,15 @@
   <a href="https://llvm.org/">
     <img alt="vscode" src="https://img.shields.io/badge/llvm-fff?style=for-the-badge&logo=llvm&logoColor=262D3A" />
   </a>
+  <a href="https://www.gnu.org/software/gnu-c-manual/">
+    <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img alt="rust" src="https://img.shields.io/badge/-Rust-B7410E?logo=Rust&style=for-the-badge&logoColor=1d1d1b" />
+  </a>
+   <a href="https://www.haskell.org/">
+    <img alt="haskell" src="https://img.shields.io/badge/-haskell-000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNyAxMiI+CgkJPHBhdGggZmlsbD0iIzQ1M2E2MiIgZD0iTSAwIDEyIEwgNCA2IEwgMCAwIEwgMyAwIEwgNyA2IEwgMyAxMiIvPgoJCTxwYXRoIGZpbGw9IiM1ZTUwODYiIGQ9Ik0gNCAxMiBMIDggNiBMIDQgMCBMIDcgMCBMIDE1IDEyIEwgMTIgMTIgTCA5LjUgOC4yNSBMIDcgMTIiLz4KCQk8cGF0aCBmaWxsPSIjOGY0ZThiIiBkPSJNIDEzLjY2IDguNSBMIDEyLjMzMyA2LjUgTCAxNyA2LjUgTCAxNyA4LjUgTSAxMS42NjYgNS41IEwgMTAuMzMzIDMuNSBMIDE3IDMuNSBMIDE3IDUuNSIvPgo8L3N2Zz4=" />
+  </a>
 </div><br/>
 
 ## Work Setup
@@ -96,11 +105,7 @@
 
 ## Technologies I enjoyed working with
 
-<div style="display: inline_block" ><br/>
-   
-   <a href="https://www.haskell.org/">
-    <img alt="haskell" src="https://img.shields.io/badge/-haskell-000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNyAxMiI+CgkJPHBhdGggZmlsbD0iIzQ1M2E2MiIgZD0iTSAwIDEyIEwgNCA2IEwgMCAwIEwgMyAwIEwgNyA2IEwgMyAxMiIvPgoJCTxwYXRoIGZpbGw9IiM1ZTUwODYiIGQ9Ik0gNCAxMiBMIDggNiBMIDQgMCBMIDcgMCBMIDE1IDEyIEwgMTIgMTIgTCA5LjUgOC4yNSBMIDcgMTIiLz4KCQk8cGF0aCBmaWxsPSIjOGY0ZThiIiBkPSJNIDEzLjY2IDguNSBMIDEyLjMzMyA2LjUgTCAxNyA2LjUgTCAxNyA4LjUgTSAxMS42NjYgNS41IEwgMTAuMzMzIDMuNSBMIDE3IDMuNSBMIDE3IDUuNSIvPgo8L3N2Zz4=" />
-  </a>
+<div style="display: inline_block" ><br/> 
   <a href="https://reactnative.dev/">
     <img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
@@ -116,19 +121,11 @@
   <a href="https://flask.palletsprojects.com/en/3.0.x/">
     <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </a>
-  <a href="https://www.gnu.org/software/gnu-c-manual/">
-    <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white"/>
-  </a>
-
    <a href="https://www.latex-project.org/">
     <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-FFFFFF?logo=latex&logoColor=008080&style=for-the-badge" />
   </a>
   <a href="https://hyprland.org/">
     <img alt="hyprland" src="https://img.shields.io/badge/Hyprland-000?style=for-the-badge&logo=hyprland&logoColor=58E1FF" />
-  </a>
-
-  <a href="https://www.rust-lang.org/">
-    <img alt="rust" src="https://img.shields.io/badge/-Rust-B7410E?logo=Rust&style=for-the-badge&logoColor=1d1d1b" />
   </a>
 </div>
 <br/>
