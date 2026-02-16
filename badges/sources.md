@@ -1,0 +1,35 @@
+# Source
+
+For safety and performance I am saving the generated badges in this repo, but even
+so, I want to keep the urls that generated them for future reference and possible
+modifications
+
+- LinkedIn "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4K)](https://www.linkedin.com/in/bernardo-borges-5b36b817a/"
+- Rust "https://img.shields.io/badge/-Rust-B7410E?logo=Rust&style=for-the-badge&logoColor=1d1d1b"
+- NixOS "https://img.shields.io/badge/NixOs-fff?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2MCA2MCI+PGcgZmlsbC1ydWxlPSJldmVub2RkIj48dXNlIHhsaW5rOmhyZWY9IiNCIiBmaWxsPSIjNTI3N2MzIi8+PHBhdGggZD0iTTIzLjU4IDIwLjIxNEw4Ljk2NCA0NS41MjggNS41NSAzOS43NDNsMy45NC02Ljc4LTcuODIzLS4wMkwwIDMwLjA1MmwxLjcwMy0yLjk1NiAxMS4xMzUuMDM1IDQuMDAyLTYuOXpNMjQuNyA0MC40NWgyOS4yM2wtMy4zMDIgNS44NS03Ljg0LS4wMjIgMy44OTQgNi43ODUtMS42NyAyLjktMy40MTIuMDA0LTUuNTM3LTkuNjYtNy45NzYtLjAxNnptMTcuMDE0LTExLjA5MkwyNy4xIDQuMDQzbDYuNzE2LS4wNjMgMy45MDIgNi44IDMuOTMtNi43NjUgMy4zMzcuMDAyIDEuNyAyLjk1My01LjU5OCA5LjYyNiAzLjk3NCA2LjkxNnoiIGZpbGw9IiM3ZWJhZTQiLz48ZyBmaWxsPSIjNTI3N2MzIj48dXNlIHhsaW5rOmhyZWY9IiNCIi8+PHBhdGggZD0iTTM1LjI4IDE5LjQ4NmwtMjkuMjMtLjAwMiAzLjMwMy01Ljg0OCA3Ljg0LjAyMkwxMy4zIDYuODczbDEuNjctMi45IDMuNDEyLS4wMDQgNS41MzcgOS42NiA3Ljk3Ni4wMTZ6bTEuMTQgMjAuMjk0bDE0LjYxNi0yNS4zMTMgMy40MTMgNS43ODUtMy45NCA2Ljc4IDcuODIzLjAyIDEuNjY4IDIuOS0xLjcwMyAyLjk1Ni0xMS4xMzUtLjAzNS00LjAwMiA2Ljl6Ii8+PC9nPjwvZz48ZGVmcz48cGF0aCBpZD0iQiIgZD0iTTE4LjMwNSAzMC42NDJMMzIuOTIgNTUuOTU2bC02LjcxNi4wNjMtMy45MDItNi44LTMuOTMgNi43NjUtMy4zMzctLjAwMi0xLjcxLTIuOTUzIDUuNTk4LTkuNjI2LTMuOTc0LTYuOTE2eiIvPjwvZGVmcz48L3N2Zz4="
+- LLVM "https://img.shields.io/badge/llvm-fff?style=for-the-badge&logo=llvm&logoColor=262D3A"
+- C "https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white"
+- Haskell "https://img.shields.io/badge/-haskell-000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNyAxMiI+CgkJPHBhdGggZmlsbD0iIzQ1M2E2MiIgZD0iTSAwIDEyIEwgNCA2IEwgMCAwIEwgMyAwIEwgNyA2IEwgMyAxMiIvPgoJCTxwYXRoIGZpbGw9IiM1ZTUwODYiIGQ9Ik0gNCAxMiBMIDggNiBMIDQgMCBMIDcgMCBMIDE1IDEyIEwgMTIgMTIgTCA5LjUgOC4yNSBMIDcgMTIiLz4KCQk8cGF0aCBmaWxsPSIjOGY0ZThiIiBkPSJNIDEzLjY2IDguNSBMIDEyLjMzMyA2LjUgTCAxNyA2LjUgTCAxNyA4LjUgTSAxMS42NjYgNS41IEwgMTAuMzMzIDMuNSBMIDE3IDMuNSBMIDE3IDUuNSIvPgo8L3N2Zz4="
+- TypeScript "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+- Spring Framework "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+- Spring Boot "https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"
+- Gradle "https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"
+- DBeaver "https://img.shields.io/badge/DBeaver-d6cdc8?style=for-the-badge&logo=dbeaver&logoColor=382923"
+- Bruno API Client "https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=000"
+- SonarQube "https://img.shields.io/badge/SonarQube-FFFFFF?style=for-the-badge&logo=sonarqubeforide&logoColor=126ED3"
+- React "https://img.shields.io/badge/-React.js-black?logo=react&style=for-the-badge&logoColor=61DAFB"
+- Vite "https://img.shields.io/badge/-Vite-646CFF?logo=vite&style=for-the-badge&logoColor=white"
+- ESLint "https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=4B32C3"
+- Redux "https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=000"
+- Flyway "https://img.shields.io/badge/flyway-FFF?style=for-the-badge&logo=flyway&logoColor=CC0200"
+- Azure DevOps "https://img.shields.io/badge/-azure%20devops-007ACC?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHRpdGxlPkF6dXJlIERldk9wczwvdGl0bGU+CjxwYXRoCmZpbGw9IiNmZmZmZmYiCmQ9Ik0wIDguODc3TDIuMjQ3IDUuOTFsOC40MDUtMy40MTZWLjAyMmw3LjM3IDUuMzkzTDIuOTY2IDguMzM4djguMjI1TDAgMTUuNzA3em0yNC00LjQ1djE0LjY1MWwtNS43NTMgNC45LTkuMzAzLTMuMDU3djMuMDU2bC01Ljk3OC03LjQxNiAxNS4wNTcgMS43OThWNS40MTV6Ii8+Cjwvc3ZnPgo="
+- Docker Desktop "https://img.shields.io/badge/docker%20desktop-2496ED?style=for-the-badge&logo=docker&logoColor=fff"
+- Firefox "https://img.shields.io/badge/-firefox-000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSI+CiAgPGVsbGlwc2UgY3g9IjUwIiBjeT0iNTAiIHJ4PSIyNCIgcnk9IjI0IiBmaWxsPSIjODBlIi8+CiAgPHBhdGggZD0iTTUwIDQyYy0xNC03LTExLTgtMTYtMTEtMS00LTEtOCAwLTEyLTUgMi05IDUtMTIgOS0xLTQtMS40LTctMS0xMkM4IDI0IDIgMzggMiA1MGMtMCAzMSAyNiA0OSA0OCA0OSAyMiAwIDQ4LTE2IDQ4LTQ5IDAtNSAwLTktMy0xNi05IDIxLTIzIDQwLTQ1IDQwLTggMC0yMy00LTIzLTI1IDctMiAxNi0zIDIzLTd6IiBmaWxsPSIjZjczIi8+CiAgPHBhdGggZD0iTTUwIDQyYy0xNyA2LTIwLTgtMzUgMCAzIDYgNyA3IDExIDcgMCAyMCAxMiAyNiAyNCAyNiAxOSAwIDM3LTkgNDUtNDEtNy0xNy0yMy0xOS0yOS0zNC05IDYtMTUgMTQtMTYgMjYgMTIgMCAyNCAxMCAyNCAyNCAwIDE1LTE0IDIzLTI0IDIzLTUgMC0xOS0yLTIxLTE3IDItNiA4LTggMTYtOSAzLTEgNC0zIDUtNXoiIGZpbGw9IiNmYzMiLz4KPC9zdmc+"
+- Rancher Desktop "https://img.shields.io/badge/Rancher-FFF?style=for-the-badge&logo=rancher&logoColor=2453ff"
+- React Native "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+- Expo "https://img.shields.io/badge/-expo-000020?logo=expo&logoColor=white&style=for-the-badge"
+- C++ "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+- Python "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+- Flask "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+- LaTeX "https://img.shields.io/badge/-LaTeX-FFFFFF?logo=latex&logoColor=008080&style=for-the-badge"
+- Hyprland "https://img.shields.io/badge/Hyprland-000?style=for-the-badge&logo=hyprland&logoColor=58E1FF"
