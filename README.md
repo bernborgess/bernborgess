@@ -23,7 +23,11 @@
    <a href="https://www.haskell.org/">
     <img alt="haskell" src="./badges/haskell-badge.svg" />
   </a>
-</div><br/>
+   <a href="https://kde.org/plasma-desktop">
+    <img alt="kdeplasma" src="./badges/plasma.svg" />
+  </a>
+</div>
+<br/>
 
 ## Work Setup
 
