@@ -14,6 +14,9 @@
   <a href="https://llvm.org/">
     <img alt="llvm" src="./badges/llvm-badge.svg" />
   </a>
+  <a href="https://mlir.llvm.org/">
+    <img alt="mlir" src="./badges/mlir-badge.svg" />
+  </a>
   <a href="https://www.gnu.org/software/gnu-c-manual/">
     <img alt="C" src="./badges/c-badge.svg"/>
   </a>
