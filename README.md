@@ -38,7 +38,9 @@
   <a href="https://www.latex-project.org/">
     <img alt="LaTeX" src="./badges/latex-badge.svg" />
   </a>
- 
+  <a href="https://cangjie-lang.cn/en">
+    <img alt="cangjie-lang" src="./badges/cangjie.svg" />
+  </a>
 </div><br/>
 
 ## Technologies I enjoyed working with
