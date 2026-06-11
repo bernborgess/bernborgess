@@ -17,6 +17,9 @@
    <a href="https://kde.org/plasma-desktop">
     <img alt="kdeplasma" src="./badges/plasma.svg" />
   </a>
+   <a href="https://www.gentoo.org/">
+     <img alt="gentoo" src="./badges/gentoo.svg" />
+   </a>
 </div>
 <br/>
 
