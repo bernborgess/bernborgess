@@ -20,6 +20,7 @@
    <a href="https://www.gentoo.org/">
      <img alt="gentoo" src="./badges/gentoo.svg" />
    </a>
+
 </div>
 <br/>
 
@@ -44,6 +45,9 @@
   <a href="https://cangjie-lang.cn/en">
     <img alt="cangjie-lang" src="./badges/cangjie.svg" />
   </a>
+   <a href="https://cmake.org/">
+     <img alt="cmake" src="./badges/CMAKE-badge.svg" />
+   </a>
 </div><br/>
 
 ## Technologies I enjoyed working with
