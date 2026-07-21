@@ -20,7 +20,7 @@ badge = f"https://img.shields.io/badge/-{name}-{color}?logo={logo}&logoColor=whi
 - Fear not! We can always create our own logos, based on a svg image!
 1. Retrieve the `base64` encoding of your desired image like:
 ```bash
-$ base64 java.svg
+$ base64 -w0 java.svg
 PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
 [long long string...]
 IDwvZz4KPC9zdmc+
