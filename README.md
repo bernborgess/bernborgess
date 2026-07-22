@@ -27,6 +27,9 @@
 ## Work Setup
 
 <div style="display: inline_block" ><br/>
+  <a href="https://cplusplus.com/">
+    <img alt="cpp" src="./badges/cpp-badge.svg" />
+  </a>
   <a href="https://code.visualstudio.com/">
     <img alt="vscode" src="./badges/vscode-badge.svg" />
   </a>
@@ -61,9 +64,6 @@
   </a>
   <a href="https://www.rust-lang.org/">
     <img alt="rust" src="./badges/rust-badge.svg" />
-  </a>
-  <a href="https://cplusplus.com/">
-    <img alt="cpp" src="./badges/cpp-badge.svg" />
   </a>
   <a href="https://www.python.org/">
     <img alt="python" src="./badges/python-badge.svg" />
