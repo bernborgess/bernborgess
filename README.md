@@ -28,7 +28,7 @@
 
 <div style="display: inline_block" ><br/>
   <a href="https://cplusplus.com/">
-    <img alt="cpp" src="./badges/cpp-badge.svg" />
+    <img alt="cpp" src="./badges/cpp_badge.svg" />
   </a>
   <a href="https://code.visualstudio.com/">
     <img alt="vscode" src="./badges/vscode-badge.svg" />
